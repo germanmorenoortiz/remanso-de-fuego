@@ -1,15 +1,24 @@
 {
   "model1": [
     {
-      "animo": "decepcionado",
+      "sentimiento": "decepción",
       "frase": "El amor es paciente, es servicial, no es envidioso, no es presumido, no es vanidoso, no es mal educado, no es egoísta, no se irrita, no lleva cuentas del mal, no se alegra por la injusticia, se alegra por la verdad, disculpa todo, cree todo, espera todo, aguanta todo, ¡El AMOR JAMAS SE ACABA!.",
       "id": "5601cf88-d31b-499e-92da-6e0c144e2a09"
     },
-
     {
-      "animo": "triste",
-      "frase": "No se sorprenda nadie porque entregar a los hombres los dones de la tierra, porque aprendí luchando que es mi deber terrestre propagar la alegría. Y cumplo mi destino con mi canto.",
-      "id": ""
+      "sentimiento": "tristeza",
+      "frase": "No se sorprenda nadie porque entregar a los hombres los dones de la tierra, porque aprendí luchando que es mi deber terrestre propagar la alegría. Y cumplo mi destino con mi canto. (Oda a la alegría. Pablo Neruda.)",
+      "id": "bb20e58e-d843-448d-86d3-f00def20c4bb"
+    },
+    {
+      "sentimiento": "pobreza",
+      "frase": "Es más fácil que un camello pase por el ojo de una aguja, que un rico entre en el Reino de los Cielos(Mateo 19, 23-30)",
+      "id": "53ae2344-5be5-4ab5-847b-db402976c16b"
+    },
+    {
+      "sentimiento": "desazón",
+      "frase": "¿Quién ha puesto al huracán jamás ni yugos ni tabas, ni quién al rayo detuvo prisionero en una jaula? (Miguel Hernández. Vientos del pueblo.)",
+      "id": "afd64379-eb3a-4086-829d-7f30d0935734"
     }
   ]
 }
